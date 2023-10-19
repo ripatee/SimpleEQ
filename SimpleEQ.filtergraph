@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.49125" y="0.5967741935483871" useARA="0" uiLastX_Normal="196"
+  <FILTER uid="5" x="0.49875" y="0.5987903225806451" useARA="0" uiLastX_Normal="196"
           uiLastY_Normal="146" uiopen_Normal="0">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\SimpleEQ.vst3\Contents\x86_64-win\SimpleEQ.vst3"
-            uniqueId="f49ce11d" isInstrument="0" fileTime="18b4775099b" infoUpdateTime="18b4775b466"
+            uniqueId="f49ce11d" isInstrument="0" fileTime="18b480487ee" infoUpdateTime="18b4805815a"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e954539f"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -82,7 +82,7 @@
           uiLastY_Normal="272" uiopen_Normal="1">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\AudioFilePlayer.vst3\Contents\x86_64-win\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="18b3e731eed" infoUpdateTime="18b4775b466"
+            uniqueId="79fe81c" isInstrument="0" fileTime="18b3e731eed" infoUpdateTime="18b4805815b"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e95d02c7"/>
     <STATE>299.VMjLgHR....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DCMv3BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQtzTQLolShUELhsVRxHlXIckV4EkLgIFLTMVdqECVhEzTLYFT5EFcEYTXpEDZQc1XVkEcAI0RlolZKcDMRYEcyfVVxUTLX4hKt3hKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDTtDDRTQlcEEiX4EDTtDDSt3xXt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQ77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>

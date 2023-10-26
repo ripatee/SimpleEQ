@@ -62,13 +62,13 @@
     </LAYOUT>
   </FILTER>
   <FILTER uid="5" x="0.49875" y="0.5987903225806451" useARA="0" uiLastX_Normal="196"
-          uiLastY_Normal="146" uiopen_Normal="0">
+          uiLastY_Normal="146" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\SimpleEQ.vst3\Contents\x86_64-win\SimpleEQ.vst3"
-            uniqueId="f49ce11d" isInstrument="0" fileTime="18b6836eda9" infoUpdateTime="18b68380b44"
+            uniqueId="f49ce11d" isInstrument="0" fileTime="18b6d43efbf" infoUpdateTime="18b6d445096"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e954539f"/>
-    <STATE>620.VMjLgLl....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCNw3BTEwlXmAiUYoWUrIVdA4hKAIlKTETRUAUSAAkKBolQY4BQtLTQlQkVCU0QiYFVpI1ZEcjKwTjQgASUF4RPp4RPt3hKt3hKtf1TCQjKPUjZTEDLD4RPHAkVpEDTt7DUtH0aiYjVCU0QiYFSEEVcAcUVtf0UXIWUWkkKDAkPD4hKt3hKt3hKt3hKt3RUPIUQTMkKDYlKuEkQtDjdPEDS3DyXCU0QiYFVpI1ZEcjKwTjQgASUF4RPp4RPt3hKt3hKtH0PBQjKPUjZTEDLD4RPHAkVpEDTt3DUtLUciICTvD0QHM0cwDlcUYjKwTjQgASUF4RPp4RPt3hKt3hKt3hKt3hKPUjZTEDLD4RPHAkVpEDTtrDUtP0ZEEiVlgkZhsVQG4RLEYTXvTkQtDjZtDjKt3hKt3hKhcjPD4BTEoFUAACQtDDRPokZAAkKKQkKTsVQwnkYhQEVuQiQtDSQFEFLUYjKAolKA4hKt3hKt3hKt3hKt.UQpQUPvPjKAgDTZoVPP4hST4BUqUTLZYFQUM1Y2YkV5s1QtDSQFEFLUYjKAolKA4hKt3hKt3hK1sxPt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <STATE>658.VMjLgjn....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9PCL43BTEwlXmAiUYoWUrIVdA4hKAYlKTETRUAUSAAkKBolQY4BQtLTQlQkVCU0QiYFVpI1ZEcjKwTjQgASUF4RPp4RPt3hKt3hKtf1TCQjKPUjZTEDLD4RPHAkVpEDTt7DUtH0aiYjVCU0QiYFSEEVcAcUVtf0UXIWUWkkKDAkPD4hKt3hKt3hKt3hKt3RUPIUQTMkKDYlKuEkQtDjdPEDS3DyXCU0QiYFVpI1ZEcjKwTjQgASUF4RPp4RPt3hKt3hKtXGTAQjKPUjZTEDLD4RPHAkVpEDTt3DUtLUciICTvD0QHM0cwDlcUYjKwTjQgASUF4RPp4RPt3hKt3hKt3hKt3hKPUjZTEDLD4RPHAkVpEDTtrDUtP0ZEEiVlgkZhsVQG4RLEYTXvTkQtDjZtDjKt3hKt3hKynWPD4BTEoFUAACQtDDRPokZAAkKKQkKTsVQwnkYhQEVuQiQtDSQFEFLUYjKAolKA4hKt3hKt3hKw4BQt.UQpQUPvPjKAgDTZoVPP4hST4BUqUTLZYFQUM1Y2YkV5s1QtDSQFEFLUYjKAolKA4hKt3hYLkGSA4BQt.UQpQUPvPjKAQDTZoVPP4hST4hTuMlQZMTUGMlYXolXqUzQt3hKt3hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEVtPDTtHzZGI1YMIiXtPDTtLjKPcjKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,7 +82,7 @@
           uiLastY_Normal="96" uiopen_Normal="1">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\AudioFilePlayer.vst3\Contents\x86_64-win\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="18b3e731eed" infoUpdateTime="18b68380b45"
+            uniqueId="79fe81c" isInstrument="0" fileTime="18b3e731eed" infoUpdateTime="18b6d445097"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e95d02c7"/>
     <STATE>299.VMjLgHR....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DCMv3BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQtzTQLolShUELhsVRxHlXIckV4EkLgIFLTMVdqECVhEzTLYFT5EFcEYTXpEDZQc1XVkEcAI0RlolZKcDMRYEcyfVVxUTLX4hKt3hKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDTtDDRTQlcEEiX4EDTtDDSt3xXt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQ77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
